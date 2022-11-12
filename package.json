@@ -1,0 +1,23 @@
+{
+  "name": "budget-mint-csv-parser",
+  "version": "1.0.0",
+  "description": "Parse the csv download from mint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wgillaspy/budget-mint-csv-parser.git"
+  },
+  "author": "William Gillaspy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wgillaspy/budget-mint-csv-parser/issues"
+  },
+  "homepage": "https://github.com/wgillaspy/budget-mint-csv-parser#readme",
+  "dependencies": {
+    "csv-reader": "^1.0.10",
+    "fs-extra": "^10.1.0"
+  }
+}
